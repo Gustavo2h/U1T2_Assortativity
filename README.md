@@ -1,8 +1,8 @@
 # Relatório - Tarefa 2
 
-**Nome:**  
-**Matrícula:**  
-**Curso:**  
+**Nome: Gustavo Pereira de Carvalho**  
+**Matrícula: 20210039543**  
+**Curso: Engenharia de Computação**  
 
 Este relatório apresenta e discute os resultados obtidos durante a segunda tarefa da primeira unidade da disciplina de Algoritmos e Estruturas de Dados II.
 
