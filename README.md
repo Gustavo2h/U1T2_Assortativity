@@ -6,7 +6,7 @@
 
 Este relatório apresenta e discute os resultados obtidos durante a segunda tarefa da primeira unidade da disciplina de Algoritmos e Estruturas de Dados II.
 
-## Link da apresentação:
+## Link da apresentação: https://drive.google.com/file/d/1Q362Wdx_fad4RT1bFYbFGWRIJakYyytK/view?usp=sharing
 
 ---
 
